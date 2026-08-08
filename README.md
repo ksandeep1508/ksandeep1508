@@ -1,12 +1,16 @@
-# 💫 Hi 👋, I'm Sandeep Kumar
+# 💫 Hi 👋, I'm Sandeep
 **A passionate MERN Stack Developer || Cloud Engineer || DevOps Engineer || Backend Engineer || System Design**
 
 Email Me 👉 ✉️ **ksandeep13418@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-[![](https://komarev.com/ghpvc/?username=ksandeep1508&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  <a href="https://komarev.com/ghpvc/?username=vivekcore">
+    <img src="https://komarev.com/ghpvc/?username=vivekcore&style=flat-square" />
+  </a>
+</p>
 
 # 💫 About Me:
-🎓 3rd-year B.Tech CSE student<br>💻 Full-Stack Developer<br>🚀 Currently building real-world web applications<br>🌱 Learning and improving my development skills<br>🤝 Open to collaboration and interesting projects<br>💬 Ask me about React, Node.js, Express & MongoDB<br>⚡ Fun fact: I enjoy turning ideas into working projects
+🎓 Currently 3rd-year B.Tech CSE student<br>💻 Full-Stack Developer<br>🚀 Currently building real-world web applications<br>🌱 Learning and improving my development skills<br>🤝 Open to collaboration and interesting projects<br>💬 Ask me about React, Node.js, Express & MongoDB<br>⚡ Fun fact: I enjoy turning ideas into working projects
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
