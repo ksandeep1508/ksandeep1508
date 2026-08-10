@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **ksandeep13418@gmail.com** For Collaboration/Project or An
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=vivekcore">
-    <img src="https://komarev.com/ghpvc/?username=vivekcore&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=ksandeep1508&style=flat-square" />
   </a>
 </p>
 
